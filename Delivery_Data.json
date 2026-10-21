@@ -1,1 +1,436 @@
-hi
+[
+  {
+    "village_name": "Mubarakpur & Amilo (मुबारकपुर) - 218631",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Amurhi (अमुड़ी) - 193777",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Asaur (असाउर) - 193776",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Asmanpur (आसमानपुर) - 193740",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Atardiha (अतरडीहा) - 193795",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Babhanpura (बभनपुरा) - 193760",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bada Gaon (बड़ागांव) - 193753",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bardiha Urf Gaderua (बरडीहा उर्फ गडेरूआ) - 193793",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Basaratpur (बसारतपुर) - 193754",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Basauodha (बसौधा) - 193804",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bhaisaha (भैंसहा) - 193751",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bharoulia (भरौलिया) - 193782",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bhataura (भटौरा) - 193818",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Bindmathiyavyas Giri (बिन्दमठिया व्यास गिरी) - 193734",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chaadi (चाड़ी) - 193741",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chak Bahauddinpur (चक बहाउद्दीनपुर) - 193784",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chak Molna (चक मोलना) - 193780",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chak Sikathi (चक सिकठी) - 194083",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chak Taj (चक ताज) - 193781",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chakshekh Ahmad Urf Chakia (चक शेख अहमद उर्फ चकिया) - 193796",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Chiuthi (चिऊटही) - 193746",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Daudpur Kurmi (दाउदपुर कुर्मी) - 193510",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Devali Khalsa (देवली खालसा) - 193799",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Devkali Dharmajeet (देवकली धर्माजीत) - 193791",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Devkali Khatib (देवकली खतीब) - 193789",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Devkali Taran (देवकली तारन) - 193787",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Dih (डीह) - 193765",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Diliya (डिलिया) - 193762",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Firozabad (फिरोजाबाद) - 193764",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Gauspur (गौसपुर) - 193816",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Gochha (गोछा) - 193446",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Gujarpar (गूजरपार) - 218624",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Haivatpur Urf Ramchandpur (हैवतपुर उर्फ रामचन्दपुर) - 193748",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Haji Patti (हाजी पट्टी) - 193788",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Ibrahimpur (इब्राहिमपुर) - 193749",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Jalalpur (जलालपुर) - 193783",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Khaura (खौरा) - 193757",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Kukur Sanda (कुकुरसण्डा) - 193778",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Kusaha Bramhnan (कुसहा ब्रम्हनान) - 193790",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Madarpur (मदारपुर) - 193744",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Makhdumpur (मखदुमपुर) - 193770",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Malik Suddani (मलिक सुदनी) - 193761",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Manjhariya (मनझरिया) - 193736",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Mudiyar (मुडियार) - 193729",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Muinabad (मुईनाबाद) - 193785",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Mustafabad (मुस्तफाबाद) - 193850",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Naravan (नरांव) - 193774",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Nizampur (निजामपुर) - 193772",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Nurpur Butat (नूरपुर बुतात) - 218627",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Pahi Jamin Pahi (पाही जमीन पाही) - 193763",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Pichari (पिचरी) - 193773",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Pyarepur (प्यारेपुर) - 193994",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Rasulpur Bevhara (रसूलपुर व्यवहरा) - 193759",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sarai Mubarak (सराय मुबारक) - 193743",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sarai Phiroj (सराय फिरोज) - 193809",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sikandarpur (सिकन्दरपुर) - 193747",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sikathishah Muhamadpur (सिकठी शाह मुहम्मदपुर) - 193758",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sonawar (सोनावर) - 193733",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Sonpar (सोनपार) - 193735",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Tadia Khan (टंडिया खान) - 193800",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Tulshipur P. Chiraiyakot (तुलसीपुर प० चिरैयाकोट) - 193817",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "village_name": "Udaybhanpur (उदयभानपुर) - 218623",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  }
+]
