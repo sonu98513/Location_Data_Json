@@ -1,6 +1,13 @@
 [
   {
-    "village_name": "Mubarakpur & Amilo,
+    "village_name": "Amilo",
+    "tehsil": "Sadar/Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+{
+    "village_name": "Mubarakpur",
     "tehsil": "Sadar/Azamgarh",
     "district": "Azamgarh",
     "state": "Uttar Pradesh",
