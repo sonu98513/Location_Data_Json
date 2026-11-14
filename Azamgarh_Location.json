@@ -1,1 +1,16 @@
-
+{
+  "PK": "UP#AZAMGARH#VILLAGE",
+  "SK": "BLOCK#SATHIYAON",
+  "Block ": "Sathiyaon",
+  "Sathiyaon_village": [
+    "Aavari",
+    "Uadai Bhanpur",
+    "Vindmathiya Vyas Giri"
+  ],
+  "Block ": "Palhani ",
+  "Palhani_villageList": [
+    "Baithaul",
+    "Gopalpur",
+    "Jairampur"
+    ]
+}
