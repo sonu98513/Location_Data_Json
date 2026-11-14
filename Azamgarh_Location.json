@@ -1,16 +1,23 @@
 {
   "PK": "UP#AZAMGARH",
-  "SK": "AZAMGARH#22BLOCK",
-  "Block ": "Sathiyaon",
-  "Town-Village": [
-    "Aavari",
-    "Uadai Bhanpur",
-    "Vindmathiya Vyas Giri"
-  ],
-  "Block ": "Palhani ",
-  "Town-Village": [
-    "Baithaul",
-    "Gopalpur",
-    "Jairampur"
-    ]
+  "SK": "AZAMGARH#BLOCK_LIST",
+  "districtName": "Azamgarh",
+  "blockList": [
+    {
+      "blockName": "Sathiyaon",
+      "villageList": [
+        "Aavari",
+        "Uadai Bhanpur",
+        "Vindmathiya Vyas Giri"
+      ]
+    },
+    {
+      "blockName": "Palhani",
+      "villageList": [
+        "Baithaul",
+        "Gopalpur",
+        "Jairampur"
+      ]
+    }
+  ]
 }
